@@ -1,0 +1,10 @@
+{
+  "parts":[
+    {
+      "name": "ep_metrics",
+      "hooks": {
+        "expressCreateServer" : "ep_metrics/index:consoleLogStats"
+      }
+    }
+  ]
+}

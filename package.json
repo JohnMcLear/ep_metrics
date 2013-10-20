@@ -1,0 +1,14 @@
+{
+  "name": "ep_metrics",
+  "description": "Console Logs the Etherpad Stats / Metrics",
+  "version": "0.0.1",
+  "author": {
+    "name": "John Mclear",
+    "email": "john@mclear.co.uk",
+    "url": "http://mclear.co.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnMcLear/ep_metrics.git"
+  }
+}
