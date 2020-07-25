@@ -1,7 +1,7 @@
 {
   "name": "ep_metrics",
   "description": "Console Logs the Etherpad Stats / Metrics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "John Mclear",
     "email": "john@mclear.co.uk",
